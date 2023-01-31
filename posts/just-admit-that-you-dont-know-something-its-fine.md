@@ -1,6 +1,4 @@
-# Just admit that you don't know something. It's fine.
-
-2023-01-31
+# Just admit that you don't know something. It's fine
 
 Noticed that many people, especially in the corporate world, do not answer "I don't know" to questions which they have no idea about. In the same way, they do not clearly answer any questions if the answer carries something that is considered somewhat negative.
 
