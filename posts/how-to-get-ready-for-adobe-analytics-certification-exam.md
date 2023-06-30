@@ -8,7 +8,7 @@ I know this will be a bit ironic since I'm using Bear as a blog platform known f
 
 Adobe Analytics (AA) is a powerful and flexible enterprise-grade web analytics tool. It is similar to Google Analytics, but the latter is said to be easier for beginners to learn.
 
-AA certifications cost $125 or $225 depending on the certification level, i.e. Professional або Expert. The exam takes 2,5 hour, а прохідний бал становить 31 із 50 запитань and you'll have to get a minimum score of 31 out of 50 total. 
+AA certifications cost $125 or $225 depending on the certification level, i.e. Professional або Expert. The exam takes 2,5 hour, and you'll have to get a minimum score of 31 out of 50 total. 
 
 A couple of things to note here: 
 * I'm talking here about [Adobe Analytics Business Practitioner Professional](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aa/aa-professional/aa-p-business.html), not [the Expert](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aa/aa-expert/aa-e-business.html?lang=en);
