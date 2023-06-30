@@ -2,8 +2,6 @@
 
 A couple of months ago I got certified for Adobe Analytics Business Practitioner - Professional Certification AD0-E212. In this post, I'll describe what it is, who it's for and how I prepared.
 
-I know this will be a bit ironic since I'm using Bear as a blog platform known for its privacy respecting approach to web analytics. Hope you forgive me and this post helps if you seek guidance around this topic. 
-
 **Background**
 
 Adobe Analytics (AA) is a powerful and flexible enterprise-grade web analytics tool. It is similar to Google Analytics, but the latter is said to be easier for beginners to learn.
