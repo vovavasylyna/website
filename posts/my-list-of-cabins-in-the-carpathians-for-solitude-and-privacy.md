@@ -1,7 +1,5 @@
 # My list of cabins in the Carpathians for solitude and privacy
 
-2023-07-03
-
 I was looking for nice houses / cabins for two for a vacation in the Ukrainian Carpathians mountains. The main requirements were relative remoteness from people, pleasant appearance and a good view of the mountains. I'll share the list here down below.
 
 **1 – Didova Khatchyna**
@@ -9,6 +7,8 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 [Intsagram](https://www.instagram.com/didova_khatchyna/) – [Google Maps](https://goo.gl/maps/XDYcV36JrR4UzjyZ6)
 
 Visited in 2022. Great place!
+
+<p><img src="/images/cabins/didova-khatchyna-1.jpg" alt="didova-khatchyna"/></p>
 
 ![Didova Khatchyna](/images/cabins/didova-khatchyna-1.jpg)
 
