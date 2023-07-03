@@ -8,7 +8,7 @@ I was looking for nice houses / cabins for two for a vacation in the Ukrainian C
 
 Visited in 2022. Great place!
 
-<p><img src="/images/cabins/didova-khatchyna-1.jpg" alt="didova-khatchyna"/></p>
+<p><img src="images/cabins/didova-khatchyna-1.jpg" alt="didova-khatchyna"/></p>
 
 ![Didova Khatchyna](/images/cabins/didova-khatchyna-1.jpg)
 
