@@ -13,4 +13,4 @@ This is [a Now page](http://nownownow.com/about) inspired by Derek Sivers. You s
 
 **Learning and Fun**
 
-- Building personal websites and blogs using static site generators and web development frameworks like Hugo, Jekyll, and Zola.
+- Building personal websites and blogs using static site generators and web development frameworks like Hugo, Jekyll, and Zola. Here's the [colophon](colophon.html) for my website.
