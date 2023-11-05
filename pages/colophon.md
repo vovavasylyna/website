@@ -7,6 +7,5 @@ For those interested I try to keep the details of the blog up-to-date with the i
 **Website Fast Facts**
 
 - Built with [Blog.sh](https://github.com/karlb/karl.berlin)
-- Hosted on [GitHub Pages](https://pages.github.com)
-- Deployed by [Cloudflare](https://www.cloudflare.com/en-gb/)
-- Source code available on [GitHub](https://github.com/vovavasylyna/home)
+- Deployed by [GitHub Pages](https://pages.github.com)
+- Source code available on [GitHub](https://github.com/vovavasylyna/website)
