@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Volodymyr Vasylyna's Website</title>
 	<link href="https://www.karl.berlin/atom.xml" rel="self" />
-	<updated>2023-11-05T11:37:41+02:00</updated>
+	<updated>2023-11-05T12:34:29+02:00</updated>
 	<author>
 		<name>vovavasylyna</name>
 	</author>
@@ -133,8 +133,8 @@
 		<updated>2023-09-03T14:30:00+00:00</updated>
 	</entry>
 	<entry>
-		<title>How to avoid being micromanaged at work</title>
-		<content type="html">&lt;h1&gt;How to avoid being micromanaged at work&lt;/h1&gt;
+		<title>How to avoid micromanagement</title>
+		<content type="html">&lt;h1&gt;How to avoid micromanagement&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;Approach your manager and start a conversation with care and attention to them. Do not try to convince or persuade them making them believe you&#39;re an expert and should be trusted and given some freedom. Don&#39;t do it.&lt;/li&gt;
 &lt;li&gt;Find out where your boss sees your value and support. Ask them directly, say, “Hey, what can I do to be of maximum service to you?”&lt;/li&gt;

@@ -1,4 +1,4 @@
-# How to avoid being micromanaged at work
+# How to avoid micromanagement
 
 1. Approach your manager and start a conversation with care and attention to them. Do not try to convince or persuade them making them believe you're an expert and should be trusted and given some freedom. Don't do it.
 2. Find out where your boss sees your value and support. Ask them directly, say, “Hey, what can I do to be of maximum service to you?”
