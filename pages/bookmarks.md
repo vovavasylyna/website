@@ -1,8 +1,4 @@
----
-title: "Bookmarks"
-template: "page.html"
-description: "List of my favorite bookmarks"
----
+# Bookmarks
 
 This page lists some of the personal and independent blogs I like.
 
