@@ -2,7 +2,7 @@
 
 Hi, you've reached my personal corner of the Internet.
 
-I work as a marketing analyst, based in Kyiv, Ukraine. On my blog, I explore and share thoughs about personal development, work and digital minimalism. See what I'm focusing on [now](now.html) and here's some of my [bookmarks](bookmarks.html).
+I work as a marketing analyst, based in Kyiv, Ukraine. On my blog, I explore and share thoughs about personal development, work and digital minimalism.
 
 Contact me via <a href="mailto:vasilinavova@gmail.com" rel="me">email</a> or find me on
 <a href="https://www.instagram.com/vovavasylyna/" rel="me">Instagram</a> and
