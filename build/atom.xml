@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Volodymyr Vasylyna's Website</title>
 	<link href="https://www.karl.berlin/atom.xml" rel="self" />
-	<updated>2023-11-05T12:34:29+02:00</updated>
+	<updated>2023-11-05T18:54:04+02:00</updated>
 	<author>
 		<name>vovavasylyna</name>
 	</author>
@@ -146,7 +146,7 @@
 		<link href="how-to-avoid-being-micromanaged-at-work.html"/>
 		<id>tag:www.karl.berlin,2023-09-02:posts/how-to-avoid-being-micromanaged-at-work.md</id>
 		<published>2023-09-02T14:30:00+00:00</published>
-		<updated>2023-09-02T14:30:00+00:00</updated>
+		<updated>2023-11-05T12:35:07+02:00</updated>
 	</entry>
 	<entry>
 		<title>Blog as a way of communication</title>
