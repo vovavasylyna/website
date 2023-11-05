@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Volodymyr Vasylyna's Website</title>
+	<link href="https://www.karl.berlin/atom.xml" rel="self" />
+	<updated>2023-11-05T11:37:41+02:00</updated>
+	<author>
+		<name>vovavasylyna</name>
+	</author>
+	<id>tag:www.karl.berlin,2020-05-23:default-atom-feed</id>
+	<entry>
+		<title>Social media created too many rules</title>
+		<content type="html">&lt;h1&gt;Social media created too many rules&lt;/h1&gt;
+&lt;p&gt;Noticing how traditional social media is tightening the screws, creating more and more regulations and boundaries.&lt;/p&gt;
+&lt;h2&gt;I. They prioritize profits over functionality.&lt;/h2&gt;
+&lt;p&gt;You can&#39;t be sure you&#39;ll see everything that people you decided to follow are posting. Algorithms embedded into feeds are designed to keep you engaged and increase your screen time to sell more ads and earn more money.&lt;/p&gt;
+&lt;p&gt;You can&#39;t be sure your subscribers will see everything you posted for the same reason. Often, creators with huge audiences reach only a small percentage of their subscribers because the platform decides so.&lt;/p&gt;
+&lt;h2&gt;II. They decide if your content is okay.&lt;/h2&gt;
+&lt;p&gt;Ghost banning and content governance are common occurrences. If you post frequently about war or politics, there&#39;s a high chance they&#39;ll limit your reach just because they can. If you post infrequently, they&#39;ll restrict your reach, forcing and teaching you to post regularly just because they want you to stay online.&lt;/p&gt;
+&lt;h2&gt;III. They hide very expensive fees.&lt;/h2&gt;
+&lt;p&gt;Nothing is actually free. Most platforms lock content behind registration walls and won&#39;t allow you to access it if you&#39;re not signed in. The so-called registration walls are in place to ensure you won&#39;t get anything for free. Personal data comes first.&lt;/p&gt;
+&lt;p&gt;In addition, they harm our ability to stay focused. &lt;/p&gt;</content>
+		<link href="social-media-created-too-many-rules.html"/>
+		<id>tag:www.karl.berlin,2023-10-23:posts/social-media-created-too-many-rules.md</id>
+		<published>2023-10-23T14:30:00+00:00</published>
+		<updated>2023-10-23T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Tech skills are not that important</title>
+		<content type="html">&lt;h1&gt;Tech skills are not that important&lt;/h1&gt;
+&lt;p&gt;When I switched from marketing to an analyst job two years ago, I was convinced that the most important thing was to gain hard, technical skills. I felt stressed and anxious because I thought I was lacking them.&lt;/p&gt;
+&lt;p&gt;Over time I realized that analytics is primarily a business discipline, albeit with technical components. In reality, analytics work should focus on the business side of things, and technical side is given far more importance than it actually deserves.&lt;/p&gt;
+&lt;p&gt;Instead, communication skills, understanding of business processes and the ability to generate insights using data are far more crucial. They elevate a descriptive analysis to a prescriptive one. The latter creates more additional value for the business, so it increases your career capital faster.&lt;/p&gt;
+&lt;p&gt;In my current position, I have seen several examples when colleagues having excellent BI and SQL skills could not unlock their potential and grow quickly without understanding the underlying marketing and sales processes. &lt;/p&gt;
+&lt;p&gt;Sometimes tech skills are overrated. Human connection and business acumen might be a better area to develop.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+&lt;img src=&quot;/barf/public/images/skills.png&quot; alt=&quot;skills&quot;/&gt;
+&lt;/figure&gt;&lt;/p&gt;</content>
+		<link href="tech-skills-are-not-that-important.html"/>
+		<id>tag:www.karl.berlin,2023-10-09:posts/tech-skills-are-not-that-important.md</id>
+		<published>2023-10-09T14:30:00+00:00</published>
+		<updated>2023-10-09T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>How to remind if they forgot to do their work</title>
+		<content type="html">&lt;h1&gt;How to remind if they forgot to do their work&lt;/h1&gt;
+&lt;p&gt;2023-10-06&lt;/p&gt;
+&lt;p&gt;Sometimes there are situations when a client or a colleague says, &quot;Yes, fine, I will do this tomorrow&quot;, and you kind of make an agreement with them. But then a few days pass, and there is no news from them, and nothing is done. Work is not completed.&lt;/p&gt;
+&lt;p&gt;Obsiously you feel it is necessary to somehow remind them, but there is a typical mistake here. We usually write an awkward message, like &quot;How are you doing with our project?&quot;, or even a simpler &quot;How are you doing?&quot;. With this exact phrase (&quot;How are you doing?&quot;) it is implied that I seem to be interested in how they are doing, but in fact I am reminding them of the task. In this situation, it is better to avoid ambiguous phrases or texting stuff like &quot;Hey, here&#39;s a kind reminder&quot;. This tone suggests that I believe they have forgotten something. Yet I don&#39;t actually know if they have, or not.&lt;/p&gt;
+&lt;p&gt;It is more appropriate to just copy the description with all materials and details around the task and put at the beginning of the message: &quot;Hi, we&#39;re hitting a deadline for this task in several days or hours. The task is still relevant. Here is all the information for your convenience. If there are any questions or problems, or if you do not have enough time, then let me know, and we&#39;ll think how to move forward.&quot; &lt;/p&gt;
+&lt;p&gt;This is all that needs to be done to remind about a task.&lt;/p&gt;</content>
+		<link href="how-to-remind-if-they-forgot-to-do-their-work.html"/>
+		<id>tag:www.karl.berlin,2023-10-06:posts/how-to-remind-if-they-forgot-to-do-their-work.md</id>
+		<published>2023-10-06T14:30:00+00:00</published>
+		<updated>2023-10-06T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>The problem of understanding the task</title>
+		<content type="html">&lt;h1&gt;The problem of understanding the task&lt;/h1&gt;
+&lt;p&gt;When you write any sort of an instruction, a technical specificaiton or a brief to your colleagues or contractors, you yourself are responsible to ensure that they understand the task. The problem here is you won’t be able to convey the task to these people, even with a super detailed specification, because they won’t read it carefully, even if it is very well written. And if it is short, some important details will be missing, so nothing will be clear.&lt;/p&gt;
+&lt;p&gt;The ideal way to work with this is when you meet with people who&#39;ll do the job, explain everything verbally, and then they write down kind of a document describing their own understanding of the task. Although this is in an ideal situation. &lt;/p&gt;
+&lt;p&gt;In reality, most colleagues or contractors prefer to first do a shitty job, then realize that they did the wrong thing. Then they do a shitty job again. After that they finally put some effort to figure out what you actually wanted from them. It is usually cheaper or easier for them to make a couple of useless attempts rather than to understand right away what was really required. As long as it’s cheaper for them to do this, it&#39;s hardly possible to change their approach. &lt;/p&gt;</content>
+		<link href="understanding-the-task.html"/>
+		<id>tag:www.karl.berlin,2023-10-03:posts/understanding-the-task.md</id>
+		<published>2023-10-03T14:30:00+00:00</published>
+		<updated>2023-10-03T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>RSS, and How To Subscribe To My Blog</title>
+		<content type="html">&lt;h1&gt;RSS, and How To Subscribe To My Blog&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;If you&#39;re looking for a direct RSS feed of my blog, here it is &lt;a href=&quot;https://vasylyna.net/rss.xml&quot;&gt;https://vasylyna.net/rss.xml&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many people do not know what RSS is, why &amp;amp; how to use it. Unfortunately, RSS is a bit of a geeky technology, not quite used nowadays. But if you master it, you&#39;ll wonder how you could live without it before.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is RSS?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RSS (Really Simple Syndication) is a subscription mechanism for blogs and other sites with regular updates. Instead of going to different sites yourself and seeing if there’s anything new there, it’s worth it to entrust this stupid job to a machine. Let it go to all the sites and carefully collect everything new in one place. This way new stuff comes to us, and we don’t have to chase them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to use RSS?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To use RSS, you need an RSS reader. This is a program that knows which sites you like and monitors them for updates. When sites are updated, the latest publications are automatically downloaded, and you get the latest issue of your own “magazine”, which contains everything new from your favorite websites.&lt;/p&gt;
+&lt;p&gt;This is what my reader looks like:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/rss-reader.jpg&quot; alt=&quot;RSS&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Here are all the read posts from all the blogs I follow. I don’t have to go to their websites, open a hundred bookmarks in the browser as everything is in one place. There is no need to wait for the page to open - everything has already been downloaded. I&#39;m not afraid of missing something important because everything is saved. I’ll read some right away, some over the weekend, some the next time I don&#39;t have access to the Internet. I also will decide to skip stuff so I’ll just tap it so that it stops looking like unread.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to subscribe to someone via RSS?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Create an account, for example, on &lt;a href=&quot;https://feedly.com/&quot;&gt;Feedly&lt;/a&gt;. In the menu on the left there is a Follow Websites button. Enter the address of a blog there. Use mine, for instance. That&#39;s it, now you are subscribed, new posts will arrive there. Subscribe to all your favorite blogs, and now you can read everything in one place. I myself have up to &lt;a href=&quot;/bookmarks/&quot;&gt;20 sources in my reader&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are RSS readers which cannot pick up RSS simply from the site. They need to be given a direct path to the RSS stream. I have this one: &lt;a href=&quot;https://vasylyna.net/rss.xml&quot;&gt;https://vasylyna.net/rss.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why do I need RSS if we all have social media?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Surely, this is a matter of a personal preference. As for me I don’t understand how we can even compare one with the other in terms of convenience.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Firstly, in order not to miss anything, you have to carefully monitor social feeds, and this eats up a lot of time. I usually skim Instagram assuming that there is nothing particularly valuable there by default. Social media also put posts in the weird order. The RSS reader won&#39;t miss anything.&lt;/li&gt;
+&lt;li&gt;Secondly, when it comes to long-reads, social media mostly include links only. To see what the article is about, you&#39;ll need to follow the link and wait for it to open in the browser. This is a friction. In the RSS reader, by the time I look there, everything has already been downloaded and is shown instantly.&lt;/li&gt;
+&lt;li&gt;Last but not least, I want to be able to read things when it&#39;s convenient for me, and not when the author shares it. On Twitter, for example, you have to somehow mark it with a like to ensure you&#39;ll 100% find it next time. This is all extra work. In the reader, everything is just calmly waiting for me, I don’t need to do anything for it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So now instead of a browser and Twitter to read blogs, you can use an RSS reader, a cool and convenient tool designed specifically for this purpose.&lt;/p&gt;</content>
+		<link href="rss.html"/>
+		<id>tag:www.karl.berlin,2023-09-29:posts/rss.md</id>
+		<published>2023-09-29T14:30:00+00:00</published>
+		<updated>2023-09-29T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Improve your work by saying no more often</title>
+		<content type="html">&lt;h1&gt;Improve your work by saying no more often&lt;/h1&gt;
+&lt;p&gt;Most productivity advice focuses on speed and efficiency: more user-friendly tools allow you to get better results with fewer moves. High-speed Internet access means we can be contacted wherever we are, and predictive typing of words and sentences on the keyboard means we can respond faster than ever before. Google gives us all kinds of information in seconds, and AI may soon figure out what we need before we even know it.&lt;/p&gt;
+&lt;p&gt;There is nothing wrong with speed. But it is not the lack of high speed that prevents us from obtaining valuable work results. The real enemy of modern work is the sheer number of small commitments, tasks and projects we juggle at the same time.&lt;/p&gt;
+&lt;p&gt;Every thing we agree to do entails a hidden &quot;tax&quot; necessary to support it, such as instant messaging, e-mail, short calls, meetings, or some other administrative work. Separately, these actions are easy and not very burdensome (how difficult is it to answer a simple request via Telegram?). Problems arise when such actions begin to accumulate. After we agree to dozens of different commitments, the resulting cumulative &quot;tax&quot; can grow to take up a large part of our plan for the day. Working hours will now be staggered. We will spend a lot of effort to keep up with several dialogues, each is more important than the other.&lt;/p&gt;
+&lt;p&gt;In this distracted state, it is difficult to do important work well. In other words, the problem is not a lack of speed, but a lack of free space and time. We don&#39;t need to build more powerful tools like Notion, but to gain freedom from this rush of fragmented commitments.&lt;/p&gt;
+&lt;p&gt;All of these observations above are about work, but this is also a story about technology. In many ways, innovations like Instagram, Miro, and Slack have allowed our workloads to grow to their current obscene proportions. Given this reality, we cannot depend on even faster technology to save us. The way out of the overload won&#39;t be found in the new Notion template or in the new handy app for keeping to-do lists. Instead, there needs to be a cultural, fundamental change in how we approach managing all the things we need to do.&lt;/p&gt;
+&lt;p&gt;Meanwhile, as paradoxical as it may sound, if we want to influence our work and increase productivity, we should say &quot;no&quot; more often and clearly understand our priorities.&lt;/p&gt;</content>
+		<link href="say-no-more-often.html"/>
+		<id>tag:www.karl.berlin,2023-09-14:posts/say-no-more-often.md</id>
+		<published>2023-09-14T14:30:00+00:00</published>
+		<updated>2023-09-14T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>When they complain to you, show respect</title>
+		<content type="html">&lt;h1&gt;When they complain to you, show respect&lt;/h1&gt;
+&lt;p&gt;If a person is not feeling good and complains about a problem, talks about some kind of pain, difficulties, then probably this problem is big and significant for them. If you, as a listener, suddenly saw a &quot;simple solution&quot; and rushed to share it with them, then you completely devalued the problem itself: &quot;Okay, hold on. The fact that I&#39;ve been sad for three days is not a problem for you at all? Am I stupid that I didn&#39;t find a way to solve the problem? My problem is nonsense then?” At such a moment, it is difficult to even assess how well the proposed solution really fits, because it seems completely surprising that another person found it so quickly.&lt;/p&gt;
+&lt;p&gt;Let&#39;s imagine the same situation without any strong emotions. Say, you are analyzing something complex at work, you have spent many hours discussing it with all the stakeholders, you have spent many hours thinking on your own, but you cannot find an explanation for some tiny little detail. You invite a colleague to consult, try to immerse them in the details, and they, without even listening to all the nuances to the end, say, &quot;So just add a column of data here, and everything will come together!&quot; Perhaps this is a brilliant insight, which you will immediately accept, saying, &quot;I&#39;m an idiot! I&#39;ve been racking my brain for three days, but it could have been done so easily!&quot;, yet it&#39;s highly unlikely. Rather, the reality will be that the advisor did not understand things at all, and you yourself also thought of this option first and found like a dozen of reasons why it wasn&#39;t suitable.&lt;/p&gt;
+&lt;p&gt;Obviously given the discussion is not about work but a personal issue related to feelings and emotions, then a &quot;simple solution&quot; is almost guaranteed to indicate unwillingness to delve into the problem, that is, indifference. No wonder it&#39;ll be infuriating.&lt;/p&gt;
+&lt;p&gt;The real question is why men often find themselves in the role of generating such &quot;easy solutions&quot; for women. And this is because many men sincerely feel smarter than women. They are convinced that they know better how to act. A woman, before giving simple advice, is more likely to think, &quot;He must have guessed it himself, but the problem is more complicated.&quot; And the man is more likely to think, &quot;Probably, she didn&#39;t guess it herself, but the problem is actually very easy to solve.&quot;&lt;/p&gt;
+&lt;p&gt;Therefore, the good advice is not to feel sorry condescendingly, but to respect and not think that you are better. And already from this position, you can help with solutions, if it is necessary.‌&lt;/p&gt;</content>
+		<link href="when-they-complain-to-you-show-respect.html"/>
+		<id>tag:www.karl.berlin,2023-09-09:posts/when-they-complain-to-you-show-respect.md</id>
+		<published>2023-09-09T14:30:00+00:00</published>
+		<updated>2023-09-09T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Digital reflecting physical</title>
+		<content type="html">&lt;h1&gt;Digital reflecting physical&lt;/h1&gt;
+&lt;p&gt;Yesterday morning, I was walking along Livoberezhna, Kyiv, looking at the huge multi-storey residential areas and thinking about how the things we create in the digital world reflect what we build in the physical world. Large social media platforms are metropolises: dense, noisy, and chaotic. These are cities that never sleep. You will always see or hear something new, but it is unlikely that you will keep up with all the events. There will definitely be some new video on YouTube or Tiktok that you haven&#39;t watched yet, a new video on Instagram and a new tweet on Twitter that you missed. Such metropolises openly accept everyone, but they are not for everyone.&lt;/p&gt;
+&lt;p&gt;There was a time when forums were like cities on the Internet, but now they are more like small villages. It is a place where people gather around common interests. If you spend some time on one of these forums, you will get to know almost all of its &quot;citizens&quot;. New threads rarely appear, discussions are slow and can develop over months or even years. It is a haven for those who are tired of the hustle and bustle of big cities, but still want to feel a sense of community.&lt;/p&gt;
+&lt;p&gt;And there are also personal sites, like separate, remote cabins in the forest or mountains. It&#39;s a place where people run to when they&#39;re tired of the noise. However, personal sites are not isolated islands. They interact and stay in touch using links, mentions, emails and RSS feeds. This is the slower moving part of the internet. And this is their feature, not a bug.&lt;/p&gt;
+&lt;p&gt;My journey online mirrored my journey in the real world. I grew up in a small town. Then I moved to the metropolis. But now I visit rather deserted Carpathian villages more and more often and fall more and more in love with individual personal sites and blogs where I feel at home and live at my own pace.&lt;/p&gt;</content>
+		<link href="digital-and-physical.html"/>
+		<id>tag:www.karl.berlin,2023-09-03:posts/digital-and-physical.md</id>
+		<published>2023-09-03T14:30:00+00:00</published>
+		<updated>2023-09-03T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>How to avoid being micromanaged at work</title>
+		<content type="html">&lt;h1&gt;How to avoid being micromanaged at work&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Approach your manager and start a conversation with care and attention to them. Do not try to convince or persuade them making them believe you&#39;re an expert and should be trusted and given some freedom. Don&#39;t do it.&lt;/li&gt;
+&lt;li&gt;Find out where your boss sees your value and support. Ask them directly, say, “Hey, what can I do to be of maximum service to you?”&lt;/li&gt;
+&lt;li&gt;Listen carefully and ask questions if anything&#39;s unclear. Discuss the topics not to make your point but to really understand why and what the boss needs you for.&lt;/li&gt;
+&lt;li&gt;Evaluate whether you are able to support this work, and if not, then aim to understand what is needed to make you able to.&lt;/li&gt;
+&lt;li&gt;Decide if you want to do what your manager is expecting you to be doing. If it&#39;s ok with you, keep going. If not, make a pause to think and find another suitable position.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There is no need to re-educate a person. Your mission is to help the part of the business that is entrusted to you. And if you can&#39;t help there, help somewhere else.&lt;/p&gt;</content>
+		<link href="how-to-avoid-being-micromanaged-at-work.html"/>
+		<id>tag:www.karl.berlin,2023-09-02:posts/how-to-avoid-being-micromanaged-at-work.md</id>
+		<published>2023-09-02T14:30:00+00:00</published>
+		<updated>2023-09-02T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Blog as a way of communication</title>
+		<content type="html">&lt;h1&gt;Blog as a way of communication&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For some time now, I have been carrying the idea of moving away from the model of social life on Instagram, Tiktok and Twitter. They hurt my ability to concentrate. So, I want to switch to a more productive setup. But how do you increase your attention span while satisfying your desire to socialize?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Traditional platforms are destroying our focus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Social media destroys concentration and undermines the ability to speak precise language or nuance ideas. By their very nature, they push for shorter, more abrupt, often imprecise communication, constantly changing contexts and moods, and force engagement as often as possible.&lt;/p&gt;
+&lt;p&gt;Compare these qualities with, for example, a blog, article or book. These media are constructed in such a way that the reader remains interested for a long time. Here, the content is usually more lengthy, which creates good conditions for a longer immersion into ideas and thoughts. At the same time, the author is able to reproduce the subtlest nuances and becomes more inclined to think slowly to find the best way to share his worldview with the audience.&lt;/p&gt;
+&lt;p&gt;This contrasts with short social platforms, which, for the sake of greater reach, promote posts that provoke outrage among readers and endless angry messages between various participants. In addition, the amount of attention required to read or view a conditional tweet is microscopically small compared to, for example, reading a blog post or studying an article. So, it is very likely that the typical social media user will have an increasingly weak attention span.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A platform for increasing concentration of attention&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When it comes to increasing attention span, you need to keep readers engaged with the material for as long as possible. Increasing their attention span will mean they will understand what they read better and be better equipped to learn new things in the future.&lt;/p&gt;
+&lt;p&gt;I am in favor of a way of communication through blogs. It can be interesting, useful and fun, while improving concentration and writing skills. We can interact by reading and responding to each other&#39;s blog posts or through direct feedback. I&#39;m sure it will contribute to better connections, bringing people together no worse than social networks.&lt;/p&gt;
+&lt;p&gt;By the way, I already have a great example of a cool blog among my close circle. Anna, a good friend of mine, is running an interesting &lt;a href=&quot;https://t.me/lifeafter27&quot;&gt;Telegram channel&lt;/a&gt; about fashion, events, books and cafes. This blog clearly demonstrates the benefits of thoughtful content. Anya&#39;s posts slow down the interaction between author and readers, making the interaction more meaningful and deep, while keeping attention spans at a healthy level.&lt;/p&gt;</content>
+		<link href="blog-as-a-way-of-communication.html"/>
+		<id>tag:www.karl.berlin,2023-07-25:posts/blog-as-a-way-of-communication.md</id>
+		<published>2023-07-25T14:30:00+00:00</published>
+		<updated>2023-07-25T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Should I share my plans in such detail?</title>
+		<content type="html">&lt;h1&gt;Should I share my plans in such detail?&lt;/h1&gt;
+&lt;p&gt;&quot;The worst thing a writer can do is talk about their work.&quot; These are allegedly Hemingway&#39;s words. I don&#39;t know if he really said that, but there is some truth and sense in it. When you have a plan, some intentions are important to you, and if you talk about it in detail, the brain will interpret these words as the implementation of these plans, and the energy for this will be depleted.&lt;/p&gt;
+&lt;p&gt;In fact, I have noticed several times such situations when I want to do something in the future, I share it with someone, and then when I come home, for some reason I no longer have the energy to do it. In other words, I feel like I cheated myself a little bit. In the morning, I am motivated and enthusiastic about my plan to study SQL, but in the evening I don&#39;t have enough motivation to listen to lectures and do exercises.&lt;/p&gt;
+&lt;p&gt;Of course, in general, it is worth sharing plans. This is not about a jinx or something. However, it is probably necessary to share them more succinctly in order to keep the energy at the necessary level for the implementation of the planned things. As they say, don&#39;t say hop until you jump.&lt;/p&gt;</content>
+		<link href="should-i-share-my-plans-in-such-detail.html"/>
+		<id>tag:www.karl.berlin,2023-07-17:posts/should-i-share-my-plans-in-such-detail.md</id>
+		<published>2023-07-17T14:30:00+00:00</published>
+		<updated>2023-07-17T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>The kindest person is often the smartest one</title>
+		<content type="html">&lt;h1&gt;The kindest person is often the smartest one&lt;/h1&gt;
+&lt;p&gt;When we see someone who doesn&#39;t look like us, doesn&#39;t sound like us, doesn&#39;t act like us, doesn&#39;t love like us, doesn&#39;t live like us, the first thought we have about him is rooted in either fear, or judgement, or both at the same time. This is evolution. We have survived as a species by being suspicious of things we do not know.&lt;/p&gt;
+&lt;p&gt;If we are able to turn off this animal instinct and force the brain to follow a different path, then we gradually become kinder, more patient, and gain the ability to accept people, facts and knowledge that we are not used to. Empathy and sympathy are signs not only of some kind of philosophical and spiritual development, but also of physiological development. They require the mental faculties to overcome our most primal impulses.&lt;/p&gt;
+&lt;p&gt;When people show cruelty, it means that they have failed the first test of a developed society. They hardly forced their animal brains to develop beyond its first instinct. They almost did not create new neural connections, mental pathways to overcome their own instinctive fears. Therefore, their thinking and problem solving will lack the imagination and creativity that kinder people possess.&lt;/p&gt;
+&lt;p&gt;Over the past few years, I have come to realize that one thing is more or less a universal truth: the kindest person is often the smartest one. Just take a look at Dumbledore.&lt;/p&gt;</content>
+		<link href="the-kindest-person-is-often-the-smartest-one.html"/>
+		<id>tag:www.karl.berlin,2023-07-07:posts/the-kindest-person-is-often-the-smartest-one.md</id>
+		<published>2023-07-07T14:30:00+00:00</published>
+		<updated>2023-07-07T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>My list of cabins in the Carpathians for solitude and privacy</title>
+		<content type="html">&lt;h1&gt;My list of cabins in the Carpathians for solitude and privacy&lt;/h1&gt;
+&lt;p&gt;I was looking for nice houses / cabins for two for a vacation in the Ukrainian Carpathians mountains. The main requirements were relative remoteness from people, pleasant appearance and a good view of the mountains. I&#39;ll share the list here down below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1 – Didova Khatchyna&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/didova_khatchyna/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/XDYcV36JrR4UzjyZ6&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Visited in 2022. Great place!&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;img src=&quot;images/cabins/didova-khatchyna-1.jpg&quot; alt=&quot;didova-khatchyna&quot;/&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/didova-khatchyna-1.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/didova-khatchyna-2.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/didova-khatchyna-3.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2 – Gregit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/hatynky/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/fj75dY5K77cyh7vs7&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/gregit-1.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/gregit-2.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/gregit-3.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 – karpateka&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/karpateka/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/32hQ1Zg1aNiLRT559&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/karpateka-1.jpg&quot; alt=&quot;karpateka&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/karpateka-2.jpg&quot; alt=&quot;karpateka&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4 – SpitzBergenHouse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/spitzbergenhouse/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/xjSMUySVAvxVMYD9A&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/spitzbergenhouse-1.jpg&quot; alt=&quot;SpitzBergenHouse&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/spitzbergenhouse-2.jpg&quot; alt=&quot;SpitzBergenHouse&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5 – Black Black House&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/black_black_house/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/efUKkoxEZfXv6f5r6&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/blackblackhouse-1.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/blackblackhouse-2.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/blackblackhouse-3.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6 – Black Rock Mountain Retreat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/blackrock.com.ua/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/RLt5Kc7L5am3DSNXA&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/blackrockmountainretreat-1.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/blackrockmountainretreat-2.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/blackrockmountainretreat-3.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7 – TO YE HOUSE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/toye.house/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/b5gkJPhWW9vc8UUZA&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/toyehouse-1.jpg&quot; alt=&quot;TO YE HOUSE&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/toyehouse-2.jpg&quot; alt=&quot;TO YE HOUSE&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8 – Sirimiri&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/conceptstay/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/8cjixRUCPQkqAdr79&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/sirimiri-1.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/sirimiri-2.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/sirimiri-3.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9 – MIKO&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/blacknest42/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/juCxTcUkd4PorZJz7&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Visited in 2022. Recommended. Be prepared for a 15-minute steep climb to get to the cottage. There was no parking.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/miko-1.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/miko-2.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/miko-3.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10 – Tykhyi Kutochok&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/tuhui_kytochok/ &quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/G3qfUxDwtxGuveZVA&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Update: Visited in August 2023. Recommended. This is a marvellous place.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/tykhyikutochok-1.jpg&quot; alt=&quot;Tykhyi Kutochok&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cabins/tykhyikutochok-2.jpg&quot; alt=&quot;Tykhyi Kutochok&quot; /&gt;&lt;/p&gt;</content>
+		<link href="my-list-of-cabins-in-the-carpathians-for-solitude-and-privacy.html"/>
+		<id>tag:www.karl.berlin,2023-07-03:posts/my-list-of-cabins-in-the-carpathians-for-solitude-and-privacy.md</id>
+		<published>2023-07-03T14:30:00+00:00</published>
+		<updated>2023-07-03T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>How to get ready for Adobe Analytics certification exam</title>
+		<content type="html">&lt;h1&gt;How to get ready for Adobe Analytics certification exam&lt;/h1&gt;
+&lt;p&gt;A couple of months ago I got certified for Adobe Analytics Business Practitioner - Professional Certification AD0-E212. In this post, I&#39;ll describe what it is, who it&#39;s for and how I prepared.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adobe Analytics (AA) is a powerful and flexible enterprise-grade web analytics tool. It is similar to Google Analytics, but the latter is said to be easier for beginners to learn.&lt;/p&gt;
+&lt;p&gt;AA certifications cost $125 or $225 depending on the certification level, i.e. Professional або Expert. The exam takes 2,5 hour, and you&#39;ll have to get a minimum score of 31 out of 50 total. &lt;/p&gt;
+&lt;p&gt;A couple of things to note here: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&#39;m talking here about &lt;a href=&quot;https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aa/aa-professional/aa-p-business.html&quot;&gt;Adobe Analytics Business Practitioner Professional&lt;/a&gt;, not &lt;a href=&quot;https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aa/aa-expert/aa-e-business.html?lang=en&quot;&gt;the Expert&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;I got circa 4-5 years of experience working with some Adobe Analytics functionality. At first I used Reports, and then transitioned to Workspace. I don&#39;t have any implementation, classification and maintenance expertise;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;I barely passed! My score was 33. Interesingly, Adobe expects that folks going for the certification should have at least 3-month experience. Well, all I can say is quantity sure doesn&#39;t equal quiality, or, in my case, it doesn&#39;t equal usage depth and task complexity I tackle in my day-to-day work. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How to Prepare&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I looked through all the materials published on &lt;a href=&quot;https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aa/aa-professional/aa-p-business.html&quot;&gt;the official certification portal&lt;/a&gt;. I&#39;d highlight the Readiness Questionnaire, Sample Questions and all the prep stuff mentioned in the Get prepped section. &lt;/li&gt;
+&lt;li&gt;I read majority of articles and watched most of the videos mentioned in &lt;a href=&quot;https://www.bounteous.com/insights/2021/11/09/how-prepare-adobe-analytics-business-practitioner-exam&quot;&gt;this blog post&lt;/a&gt;. Obviously, you should focus on topics which you&#39;re least experienced in.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The most useful prep method for me was working on the &lt;a href=&quot;https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu&quot;&gt;sample questions&lt;/a&gt;, including going through all the questions, isolating those I had challenges with and then find additional documentation for them. Nevertheless, I found real work experience to be the crucial success factor to pass the exam. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How did the exam go&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I took the exam in a so-called online proctored format. There were a lot of measure taken by the exam company to ensure there&#39;s no way a person will manage to cheat. In case you studied at &lt;a href=&quot;https://digitalmarketinginstitute.com/&quot;&gt;DMI&lt;/a&gt; or at a similar institution, you&#39;ll find some similarities with the Adobe certification process: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the exam is run in a separate browser that requires to turn on your webcam and mic, and close all the other applications on your computer;&lt;/li&gt;
+&lt;li&gt;you&#39;ll have to verify your identity before the exam by showing your ID, and then turn your camera around you to show the proctor your surroundings including what you got under and above the table. After that he&#39;ll check your ears to make sure you&#39;re not wearing any AirPods or something;&lt;/li&gt;
+&lt;li&gt;during the exam itself you cannot look away from the monitor screen for a long time or cover your mouth with your hands;&lt;/li&gt;
+&lt;li&gt;immediately upon completion, you will be informed about the preliminary result, that is, whether you have scored the required result or not, and the final number will arrive in the email within 72 hours after. I got it the next day.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;My Overall Impression&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In general, the experience was quite positive, and the questions were interesting enough. I don&#39;t really understand how you can get the required number of points if you have been working with the tool for less than a year or so. I lacked experience with eCommerce functionality, which is hardly used in the company I work for. There were also some very technical questions that business users almost never come across, especially since Adobe has &lt;a href=&quot;https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aa/aa-professional/aa-p-developer.html?lang=en&quot;&gt;separate certification options&lt;/a&gt; for Adobe Analytics developers. &lt;/p&gt;</content>
+		<link href="how-to-get-ready-for-adobe-analytics-certification-exam.html"/>
+		<id>tag:www.karl.berlin,2023-06-30:posts/how-to-get-ready-for-adobe-analytics-certification-exam.md</id>
+		<published>2023-06-30T14:30:00+00:00</published>
+		<updated>2023-06-30T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>My 5 principles for selecting a home</title>
+		<content type="html">&lt;h1&gt;My 5 principles for selecting a home&lt;/h1&gt;
+&lt;p&gt;Living with an architect and interior designer, along with reading &quot;Soft City&quot; by David Sim revealed to me several important principles for finding and choosing urban housing. I want to carefully note them down. First, this will help put structure in my head when the time comes to select where to live. And secondly, maybe it will show some new useful point of view to those who like me are far from the topics of urbanism and housing design.&lt;/p&gt;
+&lt;p&gt;Importantly:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All these principles are subjective as they depend on preferences, lifestyle, age, marital status, the city itself, etc.&lt;/li&gt;
+&lt;li&gt;All these principles are not new, and for many people they will sound trivial, but I started thinking about these things only this year.&lt;/li&gt;
+&lt;li&gt;Following all the principles at the same time may not be realistic from a financial or any other point of view.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principle 1. In the city, not in the nature reserve&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open territory, well-developed services, community based on familiarity and trust, space for walking without obstacles, accessibility.&lt;/p&gt;
+&lt;p&gt;The closed territory, which is offered by many developers in the residential complex format, has some advantages including well-kept space, no homeless people near you, etc. But it creates significant obstacles: in most cases, you can walk only within the complex, there is limited access for friends or couriers, the risks for critical services to arrive quickly, e.g. police or emergency. All this causes undeveloped and non-competitive commerce on the first floors, because often the opening of shops for goods and various services turns into an unprofitable business over time due to a limited number of visitors. Therefore, over time, businesses close, and the first floors of the buildings in the closed residential complex become empty.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Principle 2. Dense construction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Of course, greater density alone will not give a better life. There is no real benefit from the fact that we will live very densely.&lt;/p&gt;
+&lt;p&gt;The value of living in the city is closeness and mutual benefit. And the synthesis of density and diversity increases the likelihood that useful things, places and people will become closer. The attractiveness of a dense city:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proximity: Proximity of buildings improves access to employers and employees, teachers and artisans, shops, schools and services right where and when they are needed.&lt;/li&gt;
+&lt;li&gt;Shared identity: belonging to a particular community that arises from the collective use of the same places and resources. This sense of belonging can be felt in people&#39;s pride in their city, in its landmarks and outstanding locals, in its parks and waterfronts, in its athletes and artists. A local identity is created, which is often stronger and possibly different than national, cultural or ethnic.&lt;/li&gt;
+&lt;li&gt;The potential for unexpected opportunities to arise. Big and small cities will become centers of spontaneous meetings and unexpected cool acquaintances.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principle 3. Low buildings&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The development around housing should provide density on a human scale, that is, have dimensions that will promote comfort and well-being. No higher than six stories, but ideally four or five.&lt;/p&gt;
+&lt;p&gt;Man evolved to walk, and his ability to interpret, interact with, and respond to the environment is greatest at eye level:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Smaller spaces bring people closer together and bring them closer to things. Good contact with the environment is enhanced when the environment is close to our sensory system, that is, so that we can see small details, distinguish minor sounds, smell smells.&lt;/li&gt;
+&lt;li&gt;A smaller building also provides a better microclimate in the intermediate spaces, gives a greater sense of security, as people have a comfortable view. It promotes coziness and sociability.&lt;/li&gt;
+&lt;li&gt;The urban environment should be attractive to all senses. The more opportunities there are to observe living phenomena, the better — to see other people going about their business, to look at the big sky, shadows and light, flowers, trees and birds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principle 4. Landscaping and greening, not desert&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The building should provide the best conditions for green spaces and nature.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vegetation provides an acoustic effect, absorbing and masking noise (and thus reducing stress) among the many walls and road surfaces of the city.&lt;/li&gt;
+&lt;li&gt;Vegetation can also reduce pollution by purifying the air by absorbing dangerous nanoparticles, which is extremely important given the frequency of respiratory diseases in cities.&lt;/li&gt;
+&lt;li&gt;Vegetation is also useful as a visual component, increasing privacy, reducing and mitigating wind gusts and providing protection from the strong summer sun.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principle 5. High ceilings and thick walls for a decent life: climate control, sound insulation and aesthetics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Higher ceilings (3m or more) usually mean bigger windows and therefore more natural light. The sun can create a good atmosphere in the rooms and make the space warmer. Natural light has a positive psychological effect on the human mind and body.&lt;/li&gt;
+&lt;li&gt;High ceilings provide an optimal scale for the perception of space. Ceilings of 2.5 — 2.7 m visually oppress, put a person in some sort of a box.&lt;/li&gt;
+&lt;li&gt;Thick walls (0.5 m) help with sound insulation.&lt;/li&gt;
+&lt;li&gt;Warm air is lighter than cold, so the heat rise while the coolness remains below at the level of a person, so in the summer a moderate, more pleasant microclimate is created in a room with high ceilings and thick walls.&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<link href="my-5-principles-for-selecting-a-home.html"/>
+		<id>tag:www.karl.berlin,2023-06-02:posts/my-5-principles-for-selecting-a-home.md</id>
+		<published>2023-06-02T14:30:00+00:00</published>
+		<updated>2023-06-02T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Just admit that you don't know something. It's fine</title>
+		<content type="html">&lt;h1&gt;Just admit that you don&#39;t know something. It&#39;s fine&lt;/h1&gt;
+&lt;p&gt;Noticed that many people, especially in the corporate world, do not answer &quot;I don&#39;t know&quot; to questions which they have no idea about. In the same way, they do not clearly answer any questions if the answer carries something that is considered somewhat negative.&lt;/p&gt;
+&lt;p&gt;During 7+ years of work for an international team, in corporate, I realized that folks not knowing the answer will often try to avoid it. Same applies if the answer is not  desirable. And instead, they will find detours, ambiguous expressions, express uncertainty about some external factors. It will come to the point that they will answer off-topic, hoping that no one will clarify their words after their endlessly long tirade. &lt;/p&gt;
+&lt;p&gt;In short, these guys tend to do do everything not to answer the question of, say, &quot;How did our marketing work do last year?&quot; with a simple yet honest &quot;Oh, the it was a complete shit, and I don&#39;t know what the reason is.&quot;&lt;/p&gt;
+&lt;p&gt;On the one hand, I understand the motive. They practice the so-called growth mindset, i.e. always keeping a positive perspective in front of you, be an optimist, etc. On the other hand, these situations are real fuckery, a lack of courage to admit that at the moment there is no specific understanding or the answer is not very comforting. Instead, they avoid being not aware of something, as if they are worried it would somehow harm their image. In my opinion, such behavior is anything but a growth mindset, and such a habit has long since destroyed the personal brand. It&#39;s ok to not know stuff. &lt;/p&gt;</content>
+		<link href="just-admit-that-you-dont-know-something-its-fine.html"/>
+		<id>tag:www.karl.berlin,2023-01-31:posts/just-admit-that-you-dont-know-something-its-fine.md</id>
+		<published>2023-01-31T14:30:00+00:00</published>
+		<updated>2023-01-31T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>What is love</title>
+		<content type="html">&lt;h1&gt;What is love&lt;/h1&gt;
+&lt;blockquote&gt;&lt;p&gt;«Love, it seems to me, is that condition in which one is most contentedly oneself. If this sounds paradoxical, remember Rilke’s admonition: love consists in leaving the loved one space to be themselves while providing the security within which the self may flourish.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(&lt;a href=&quot;https://www.goodreads.com/book/show/9413960-the-memory-chalet&quot;&gt;The Memory Chalet&lt;/a&gt; by Tony Judt)&lt;/p&gt;
+&lt;p&gt;The book itself is a sometimes melancholic story of a terminally ill person, where they recall episodes and stages of their life, reflect on topics of interest in the form of essays. About half of them are not close to me, but I enjoy the other half.&lt;/p&gt;</content>
+		<link href="what-is-love.html"/>
+		<id>tag:www.karl.berlin,2022-12-12:posts/what-is-love.md</id>
+		<published>2022-12-12T14:30:00+00:00</published>
+		<updated>2022-12-12T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Embrace our own flaws to better understand others</title>
+		<content type="html">&lt;h1&gt;Embrace our own flaws to better understand others&lt;/h1&gt;
+&lt;p&gt;There are times when we are getting annoyed by someone’s weaknesses. A friend can be unable to quit an unhealthy relationship, which is driving crazy. Relatives can be toxic and make you cry. A girlfriend can lack energy and resilience to work under pressure and uncertainty. A classmate’s mind can be taken over by propaganda.&lt;/p&gt;
+&lt;p&gt;These things might make us feel angry and powerless. When feeling that way, it’s super hard to avoid blaming these people and stay away from offering unsolicited advice. 99% chance the advice will not work. On the contrary, this would only drain our energy and make it worse for everybody.&lt;/p&gt;
+&lt;p&gt;I believe the root of the problem here is actually in ourselves struggling to accept our own weaknesses in the first place. If unable to accept and appreciate ourselves to the full extent, we do the same to the others. If we’re intolerant to our own vulnerabilities, we’re treating everyone else alike.&lt;/p&gt;
+&lt;p&gt;The solution is nothing but to first embrace all that we are. By embracing our own weaknesses we will learn how to fully accept others — and actually help them instead of expressing our irritation or even anger.&lt;/p&gt;</content>
+		<link href="embrace-our-own-flaws-to-better-understand-others.html"/>
+		<id>tag:www.karl.berlin,2022-06-27:posts/embrace-our-own-flaws-to-better-understand-others.md</id>
+		<published>2022-06-27T14:30:00+00:00</published>
+		<updated>2022-06-27T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Skills over passion</title>
+		<content type="html">&lt;h1&gt;Skills over passion&lt;/h1&gt;
+&lt;p&gt;There is a long-held belief that &quot;following your passion&quot; or &quot;following your dreams&quot; is pretty good advice. But in reality, this may just be a false cliché. Moreover, it can be dangerous and lead to anxiety and chronic jumping from one job to another.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why Is It A Problem?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pre-existing career passions are rare. Obviously, most passions such as reading cannot be turned into careers. They have little to do with how most people end up loving their work.&lt;/p&gt;
+&lt;p&gt;Steve Jobs who was well known for following his passion did not start out with a love of computers. Instead, he only saw them as an opportunity to make some quick money. There&#39;s no doubt that he loved Apple computers in the later stages of his life, but he certainly didn&#39;t start off because he had a burning desire for computers as such.&lt;/p&gt;
+&lt;p&gt;But how do people come to love what they do at work?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Theory&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th&gt;Passion Mindset &lt;/th&gt;&lt;th&gt;Craftsman Mindset &lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;-------- &lt;/td&gt;&lt;td&gt;-------- &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Makes you very clear about what you don&#39;t like about your job and creates confusion with constant doubts about whether it&#39;s the right job: &quot;Is this job really mine?&quot;, or &quot;Do I even like what I do?&quot;. And here is the risk of irrationally rushing into a field where we have no skills to use, but we think that there is a passion that will rule everything. &lt;/td&gt;&lt;td&gt;To grow, become better and improve the quality of what we produce with our work. Such thinking is aimed at becoming so cool in your business that it cannot be ignored, no matter what the source of income is. That is, to approach your work every day like a real master, a craftsman. Just doing whatever we do very, very good. &lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;strong&gt;Solution&lt;/strong&gt;&lt;p&gt;Adopt the craftsman mindset, and the passion will come by itself. If you want a great job, you need to develop rare and valuable skills aka career capital to offer in exchange for desirable working conditions. When your knowledge and skills become so valuable that they can&#39;t ignore them, then there will be a high chance of choosing a great job, one that is saturated with creativity, the desired level of influence, return, income and control.&lt;/p&gt;
+&lt;p&gt;So, the goal is to get as much career capital as possible, and then there will be more opportunities to get or choose a type of work that you will love.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Inspired after reading &lt;a href=&quot;https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you&quot;&gt;So Good They Can&#39;t Ignore You&lt;/a&gt;. Recommending this all my friends. &lt;/p&gt;</content>
+		<link href="why-skills-are-more-important-than-passion-in-getting-the-work-well-love.html"/>
+		<id>tag:www.karl.berlin,2022-06-12:posts/why-skills-are-more-important-than-passion-in-getting-the-work-well-love.md</id>
+		<published>2022-06-12T14:30:00+00:00</published>
+		<updated>2022-06-12T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>How to read more</title>
+		<content type="html">&lt;h1&gt;How to read more&lt;/h1&gt;
+&lt;p&gt;2022-05-18&lt;/p&gt;
+&lt;p&gt;Stop using your phone for entertainment and see what happens.&lt;/p&gt;</content>
+		<link href="how-to-read-more.html"/>
+		<id>tag:www.karl.berlin,2022-05-18:posts/how-to-read-more.md</id>
+		<published>2022-05-18T14:30:00+00:00</published>
+		<updated>2022-05-18T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>5 ways in which social media and tech are harming our attention</title>
+		<content type="html">&lt;h1&gt;5 ways in which social media and tech are harming our attention&lt;/h1&gt;
+&lt;p&gt;2022-04-14&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Social media and tech are designed to train our minds to crave frequent rewards. They make us hunger for likes. This craving will drive you to pick up your phone more and more. You’ll break away from your work and your relationships to seek a sweet, sweet hit of retweets.&lt;/li&gt;
+&lt;li&gt;These sites push you to switch tasks more frequently than you normally would—to pick up your phone, or click over to Facebook on your laptop. When you do this, all the costs to your attention caused by switching kick in. The evidence there shows this is as bad for the quality of your thinking as getting drunk or stoned.&lt;/li&gt;
+&lt;li&gt;They get to know what makes you tick, in very specific ways—they learn what you like to look at, what excites you, what angers you, what enrages you. They learn your personal triggers—what, specifically, will distract you. This means that they can drill into your attention. Whenever you are tempted to put your phone down, the site keeps drip-feeding you the kind of material that it has learned, from your past behavior, keeps you scrolling. Older technologies—like the printed page, or the television—can’t target you in this way. Social media knows exactly where to drill. It learns your most distractible spots and targets them.&lt;/li&gt;
+&lt;li&gt;Because of the way the algorithms work, these sites make you angry a lot of the time. Scientists have been proving in experiments for years that anger itself screws with your ability to pay attention. They have discovered that if I make you angry, you will pay less attention to the quality of arguments around you, and you will show “decreased depth of processing”—that is, you will think in a shallower, less attentive way. We’ve all had that feeling—you enrage, and your ability to properly listen goes out the window. The business models of these sites are jacking up our anger every day.&lt;/li&gt;
+&lt;li&gt;In addition to making you angry, these sites make you feel that you are surrounded by other people’s anger. This can trigger a different psychological response in you. Imagine that one day you are attacked by a bear. You will stop paying attention to your normal concerns—what you’re going to eat tonight, or how you will pay the rent. You become vigilant. Your attention flips to scanning for unexpected dangers all around you. For days and weeks afterward, you will find it harder to focus on more everyday concerns. This isn’t limited to bears. These sites make you feel that you are in an environment full of anger and hostility, so you become more vigilant—a situation where more of your attention shifts to searching for dangers, and less and less is available for slower forms of focus like reading a book or playing with your kids.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;(&lt;a href=&quot;https://www.goodreads.com/book/show/57933306-stolen-focus&quot;&gt;Stolen Focus: Why You Can’t Pay Attention&lt;/a&gt; by Johann Hari)&lt;/p&gt;</content>
+		<link href="five-ways-in-which-social-media-and-tech-are-harming-our-attention.html"/>
+		<id>tag:www.karl.berlin,2022-04-14:posts/five-ways-in-which-social-media-and-tech-are-harming-our-attention.md</id>
+		<published>2022-04-14T14:30:00+00:00</published>
+		<updated>2022-04-14T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Why context switch is bad</title>
+		<content type="html">&lt;h1&gt;Why context switch is bad&lt;/h1&gt;
+&lt;p&gt;If you check your texts often while trying to work, you aren’t only losing the little bursts of time you spend looking at the texts — you are also losing the time it takes to refocus afterwards, which can be much longer. This means that if your Screen Time shows you are using your phone four hours a day, you are losing much more time than that in lost focus.&lt;/p&gt;
+&lt;p&gt;A small study commissioned by Hewlett-Packard looked at the IQ of some of their workers in two situations. At first they tested their IQ when they were not being distracted or interrupted. Then they tested their IQ when they were receiving emails and phone calls. &lt;strong&gt;The study found that ’technological distraction’ — just getting emails and calls — caused a drop in the workers’ IQ by an average of ten points. To give you a sense of how big that is; in the short term, that’s twice the knock to your IQ that you get when you smoke cannabis.&lt;/strong&gt; So this suggests in terms of being able to get your work done, you’d be better off getting stoned at your desk than checking your texts and Facebook messages a lot.*&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;/em&gt;ames Williams, Stand Out Of Our Light (Cambridge: Cambridge University Press, 2018), p. 69.&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&quot;https://www.goodreads.com/book/show/57933306-stolen-focus&quot;&gt;Stolen Focus: Why You Can’t Pay Attention&lt;/a&gt; by Johann Hari)&lt;/p&gt;</content>
+		<link href="why-context-switch-is-bad.html"/>
+		<id>tag:www.karl.berlin,2022-04-06:posts/why-context-switch-is-bad.md</id>
+		<published>2022-04-06T14:30:00+00:00</published>
+		<updated>2022-04-06T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Slow productivity</title>
+		<content type="html">&lt;h1&gt;Slow productivity&lt;/h1&gt;
+&lt;p&gt;I’ve been an opponent of the so-called productivity hustle culture for quite some time now. The workaholism topic is clearly overestimated and often considered in a wrong way. Work must be sustainable.&lt;/p&gt;
+&lt;p&gt;Nevertheless, it doesn’t mean that working less hours will just put you behind the competition or kick out of the labor market. There shouldn’t be any fear of missing out.&lt;/p&gt;
+&lt;p&gt;On the contrary, it seems like slowing the workday down will significantly improve the overall quality of life. So will do the harmonization and finding the right balance between working hard and working smart.&lt;/p&gt;
+&lt;p&gt;A recent research had more than 2500 participants try a four-day workweek. The data revealed that these workers felt more energized and less stressed, owing, in part, to increased amounts of time for socializing and hobbies, and more flexibility to efficiently complete household tasks.&lt;/p&gt;
+&lt;p&gt;No wonder I’m being skeptical when hearing of somebody working ten-twelve hours a day for weeks without a break. The high chances are that such kind of work is just not that demanding or meaningful.&lt;/p&gt;
+&lt;p&gt;To succeed, we need fewer things to work on.&lt;/p&gt;
+&lt;p&gt;Further reading: &lt;a href=&quot;https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity&quot;&gt;It’s Time to Embrace Slow Productivity — The New Yorker&lt;/a&gt;&lt;/p&gt;</content>
+		<link href="slow-productivity.html"/>
+		<id>tag:www.karl.berlin,2022-01-14:posts/slow-productivity.md</id>
+		<published>2022-01-14T14:30:00+00:00</published>
+		<updated>2022-01-14T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Productivity and self-development hustle all over Youtube</title>
+		<content type="html">&lt;h1&gt;Productivity and self-development hustle all over Youtube&lt;/h1&gt;
+&lt;p&gt;2022-01-09&lt;/p&gt;
+&lt;p&gt;Slowly yet steadily my Youtube recommendations have got an enormous amount of youtubers «selling» productivity and self-development content. Each of them started really well and interesting, but as their audiences grew their content strategy transformed into a quite simple clickbait story.&lt;/p&gt;
+&lt;p&gt;To my opinion, it’s important to not get hooked into all of that. Here’s why.&lt;/p&gt;
+&lt;p&gt;When I’m watching one of such videos it actually does sound pretty inspiring, trustworthy and valuable. So it’s not surprising why these creators get so popular in a very short period of time. The tricky part here is that their messages are often super trivial and high-level, therefore the videos are easy and fun to watch. In the meantime, the essence of the videos is then getting compensated by neat production with clickbait headlines and thumbnails. As a result, I’m always tempted to click a link fast and feel like I’m not simply wasting my time on Youtube but rather attending a self-development session, as short and non-sense it may be.&lt;/p&gt;
+&lt;p&gt;Nevertheless, whatever the positioning, it doesn’t necessarily mean that all of such content is pointless. Some parts can actually be life-changing for lots of people. The problem with self-development-oriented stuff on the Internet is that we actually don’t have time to dig through tons of shit looking for tiny useful and valuable things. And that’s quite a bummer. It means though that a proper information diet has to be put in place in order to keep a clear state of mind and have the necessary sharpness of thinking. Otherwise, it is going to be easy to get ourselves drowning in a low-value digital noise.&lt;/p&gt;
+&lt;p&gt;My personal rule of thumb is now the following: if a content sounds clickbait-y, it’s safer to skip it. The stuff with some real value will find you anyway through personal recommendatios of people you know and whose opinion you value.&lt;/p&gt;</content>
+		<link href="productivity-and-self-development-hustle-all-over-youtube.html"/>
+		<id>tag:www.karl.berlin,2022-01-09:posts/productivity-and-self-development-hustle-all-over-youtube.md</id>
+		<published>2022-01-09T14:30:00+00:00</published>
+		<updated>2022-01-09T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Root cause for empathy</title>
+		<content type="html">&lt;h1&gt;Root cause for empathy&lt;/h1&gt;
+&lt;p&gt;I got an interesting idea during one of the conversations the other day.&lt;/p&gt;
+&lt;p&gt;Some people might be empathic, to a larger degree, due to the mental health issues of their parents.&lt;/p&gt;
+&lt;p&gt;In particular, based on this hypothesis, if parents are unstable in or uncertain about the way they express their emotions or attitude regarding the world surrounding them, then their children are struggling to foresee how their own actions would be judged. Even the smallest misbehavior might be punished hard today, while tomorrow the very same action might be, on the contrary, highly encouraged, following the current mood of an uncertain parent. So, children are often confused and, hence, are forced to adapt to that kind of a situation by putting extra effort to identify current mood of their educators to simply not get in trouble again. This, in turn, get them really trained in being empathic to every person they interact with.&lt;/p&gt;</content>
+		<link href="root-cause-for-empathy.html"/>
+		<id>tag:www.karl.berlin,2021-11-07:posts/root-cause-for-empathy.md</id>
+		<published>2021-11-07T14:30:00+00:00</published>
+		<updated>2021-11-07T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Youtube has become ubiquitous</title>
+		<content type="html">&lt;h1&gt;Youtube has become ubiquitous&lt;/h1&gt;
+&lt;p&gt;I’ve just come to realization that my shift to consuming less social media content has been relatively easy mostly because I replaced it with the Youtube feed. I’ve been discarding this thought for quite some time, and now I just have to admit it. Youtube is becoming a new addiction.&lt;/p&gt;
+&lt;p&gt;Whenever I feel bored, lonely or need something to watch while eating, Youtube is the place to go to. And it’s been there for such a long time that these days I open it simply by default not only when I have nothing to do but also when my mind is seeking some place to hide and procrastinate. Basically it’s functioning the same way as Instagram or Facebook bulding a solid foundation for my impusive and uncontrolled consumption of content.&lt;/p&gt;
+&lt;p&gt;Having a Youtube Premium subscription doesn’t help here at all. It’s clearing out the way toward watching videos without any interruptions and keeps me in a comfortable ecosystem with Youtube Music.&lt;/p&gt;
+&lt;p&gt;Can Youtube be as harmful as traditional social media then? Seems like it can.&lt;/p&gt;</content>
+		<link href="youtube-has-become-ubiquitous.html"/>
+		<id>tag:www.karl.berlin,2021-10-26:posts/youtube-has-become-ubiquitous.md</id>
+		<published>2021-10-26T14:30:00+00:00</published>
+		<updated>2021-10-26T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>About dopamine</title>
+		<content type="html">&lt;h1&gt;About dopamine&lt;/h1&gt;
+&lt;p&gt;I got several interesting — yet, perhaps, somewhat trivial — insights after reading &lt;a href=&quot;https://www.goodreads.com/book/show/55723020-dopamine-nation&quot;&gt;Dopamine Nation&lt;/a&gt; by Anna Lembke.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Experiencing pain is necessary to live sustainably. Facing difficulties is paramount to finding a balance between pleasure and pain, which, in turn, allows to feel pleasure in its full capacity.&lt;/li&gt;
+&lt;li&gt;Hedonistic behavior, avoiding pain and constant craving to receiving pleasure will eventually put you in a position when, quite ironically, nothing will be bringning pleasure anymore.&lt;/li&gt;
+&lt;li&gt;Theoretically, it is possible that practicing full honesty would stimulate the part of brain responsible for decision-making, emotional regulation, planning of future and other vital processes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Basically, my idea to sticking to some rules is aimed at stopping myself from impulsive generation of dopamine. Avoiding difficulties and hiding from pain has nothing to do with fighting the cause of the negative feelings.&lt;/p&gt;</content>
+		<link href="about-dopamine.html"/>
+		<id>tag:www.karl.berlin,2021-09-29:posts/about-dopamine.md</id>
+		<published>2021-09-29T14:30:00+00:00</published>
+		<updated>2021-09-29T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Why you must not stay out of politics</title>
+		<content type="html">&lt;h1&gt;Why you must not stay out of politics&lt;/h1&gt;
+&lt;p&gt;There’re lots of people who claim that they stay out of politics, that politics is dirty and they have more important business than this nonsense of voting.&lt;/p&gt;
+&lt;p&gt;You can only be out of politics in two cases: if you live on a desert island or are not very good at logic. When you say that «I am staying out of politics», it’s better to verbalize the whole truth saying honestly, «I do not care about my future and the future of my people, I voluntarily refuse to participate in the life of my country». By refusing to participate in politics, you delegate your power to people who may turn out to be far less conscientious than yourself.&lt;/p&gt;
+&lt;p&gt;You cannot be out of politics because you use the infrastructure, pay taxes, get a pension, use public transport, post on Instagram and Facebook. All this is determined by the policies implemented by the government. Yes, posts on social media and communication in general also involve politics to some extent because it is the government that guarantees or at least should guarantee freedom of speech.&lt;/p&gt;
+&lt;p&gt;I also come across people who believe that «politics is a dirty business». This is false. Politics itself is neutral. Policies implemented specifically by someone else can be «dirty». If so, then the obvious question is if you believe that your government’s policies are nasty and dirty, why aren’t you taking any action to change it for the better? Inaction legitimises the current policies and all the crimes committed by the government. By ignoring the criminal policies, you yourself become an accomplice of the crime.&lt;/p&gt;</content>
+		<link href="why-you-must-not-stay-out-of-politics.html"/>
+		<id>tag:www.karl.berlin,2021-09-24:posts/why-you-must-not-stay-out-of-politics.md</id>
+		<published>2021-09-24T14:30:00+00:00</published>
+		<updated>2021-09-24T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Why to write</title>
+		<content type="html">&lt;h1&gt;Why to write&lt;/h1&gt;
+&lt;p&gt;A quote from &lt;a href=&quot;https://www.goodreads.com/book/show/55825273-the-comfort-book&quot;&gt;The Comfort Book&lt;/a&gt; by Matt Haig clearly articulating yet another reason of why I am pushing myself to write more:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;... Nowadays, I sometimes write about what I want. The key to this is honesty. Be brutally, humiliatingly honest. I recommend this.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;For instance, you could write “I want a six-pack.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;And seeing that wish on the page might automatically make you realize something about it. It might make you feel silly for having it. You might already be awakening another part of you that helps you diminish the craving. But either way, it is good to ask a single-word question after it. “Why?” Why do I want a six-pack? Then to be entirely honest in your answer. “I want to look good.” And again: “Why?” “For myself.” And then you might stare at that answer for a while and feel you weren’t being entirely honest. So you add: “To impress other people.” And then, like some incessant Socrates, ask it again: “Why?” “Because I want their approval.” “Why?” “Because I want to belong.” “Why?” And you can keep going, deeper and deeper, through the tunnel of whys, until you reach the light of realization. And the realization may be that wanting the six-pack wasn’t really about the six-pack. It wasn’t about your body. It wasn’t even about health or strength or fitness. It was about something else entirely. Something that wouldn’t be fundamentally addressed or solved by gaining the six-pack.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;Writing, then, is a kind of seeing. A way to see your insecurities more clearly. A way to shine a light on doubts and dreams and realize what they are actually about. It can dissolve a whole puddle of worries in the bright light of truth.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+		<link href="why-to-write.html"/>
+		<id>tag:www.karl.berlin,2021-09-09:posts/why-to-write.md</id>
+		<published>2021-09-09T14:30:00+00:00</published>
+		<updated>2021-09-09T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Why digital minimalism</title>
+		<content type="html">&lt;h1&gt;Why digital minimalism&lt;/h1&gt;
+&lt;p&gt;The purpose of this post is to structure my reason and understanding for why I stick to the Digital Minimalism concept.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Digital Minimalism?&lt;/strong&gt;
+As &lt;a href=&quot;https://www.calnewport.com/blog/2016/12/18/on-digital-minimalism/&quot;&gt;defined&lt;/a&gt; by Cal Newport, Digital Minimalism is a philosophy that helps you question what digital communication tools (and behaviors surrounding these tools) add the most value to your life. It is motivated by the belief that intentionally and aggressively clearing away low-value digital noise, and optimizing your use of the tools that really matter, can significantly improve your life.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What are the benefits?&lt;/strong&gt;
+I’m building on a muscle to perform focusing for a longer time and high concentration level by minimizing context switching.&lt;/p&gt;
+&lt;p&gt;Secondly, there’s a more strict information diet put in place. It helps get rid of a bad habit to constantly consume information. Such kind of activity is creating an obstacle to living with a clear state of mind and having the necessary sharpness of thinking.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How sticking to the Digital Minimalism principles reflect on a daily routine and behavior?&lt;/strong&gt;
+Speaking of social media, I’m using none of them. Although I still own a Facebook account, I don’t have there anything to scroll through as I no longer follow my Facebook friends, influencers and organizations. This way my feed is empty, and no need to enter Facebook unless I need to manage some work-related stuff. Hence no need to have the Facebook app installed on my phone.&lt;/p&gt;
+&lt;p&gt;When it comes to other entertaining services, Youtube and Tinder are the only places I still visit quite frequently. Yet not sure how to handle this addiction. Additionally, these ones are the only entertaining apps I have installed on the phone.&lt;/p&gt;</content>
+		<link href="why-digital-minimalism.html"/>
+		<id>tag:www.karl.berlin,2021-09-03:posts/why-digital-minimalism.md</id>
+		<published>2021-09-03T14:30:00+00:00</published>
+		<updated>2021-09-03T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Likes and shares teach us to express more outrage online</title>
+		<content type="html">&lt;h1&gt;Likes and shares teach us to express more outrage online&lt;/h1&gt;
+&lt;p&gt;Social media encourages more emotional communication. Moderate and calm posts get less engagement than more radical posts. If you want to get more likes and reposts, you should add more emotions. It is quite intuitive and familiar to any active social media user. But the Yale researchers proved it with their &lt;a href=&quot;https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online&quot;&gt;experiment&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;They researched the emotional status and engagement of 12.7 million tweets with outrage. This resulted as expected: the more reactions users received on their outrage posts, the more similar emotions their put into their subsequent posts.&lt;/p&gt;
+&lt;p&gt;Likes are the social currency of the Internet, and the position of an outraged moralist makes it easier to get this currency. Of course, such a system of motivation does not contribute to a moderate and serious discussion. It is just more useful for popularity to be more radical in your statements. And it seems that it will not be possible to change this system. Can anyone imagine Facebook, Instagram or Twitter without likes?&lt;/p&gt;</content>
+		<link href="likes-and-shares-teach-us-to-express-more-outrage-online.html"/>
+		<id>tag:www.karl.berlin,2021-08-16:posts/likes-and-shares-teach-us-to-express-more-outrage-online.md</id>
+		<published>2021-08-16T14:30:00+00:00</published>
+		<updated>2021-08-16T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>A better version of yourself</title>
+		<content type="html">&lt;h1&gt;A better version of yourself&lt;/h1&gt;
+&lt;p&gt;During my endless attempts to become the best version of myself, I always made one big mistake: I constantly compared my experience with someone else’s. I tried to be better than other people in something, comparing myself with them. And here I had no chance to win, even if trying really hard, because there will always be someone in the world who will inevitably be better than you in some way.&lt;/p&gt;
+&lt;p&gt;The philosophy of stoicism assumes that in order for a person to achieve calmness and serenity, it is necessary not to forget that there are external things that we cannot influence as well as internal things which are completely under our control. We obviously are not able to be better than other people only because we are not them, and we are not able to control them.&lt;/p&gt;
+&lt;p&gt;Another thing to remember is that while trying to become a bit better we are already ahead of many others who don’t do that, who do not make any attempts to live a better life.&lt;/p&gt;
+&lt;p&gt;I believe we need to try to be better than our past selves. Abandoning the desire to become better than another person brings calmness and control over the situation, because you can control yourself completely.&lt;/p&gt;</content>
+		<link href="to-be-a-better-version-of-yourself.html"/>
+		<id>tag:www.karl.berlin,2021-08-10:posts/to-be-a-better-version-of-yourself.md</id>
+		<published>2021-08-10T14:30:00+00:00</published>
+		<updated>2021-08-10T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Struggle to think positively</title>
+		<content type="html">&lt;h1&gt;Struggle to think positively&lt;/h1&gt;
+&lt;p&gt;2021-07-09&lt;/p&gt;
+&lt;p&gt;It feels like I’m having some unpleasant consequences of a non-positive attitude in life. This thought has been growing over the past several years.&lt;/p&gt;
+&lt;p&gt;This week I had a follow-up call after my job interview. The words which are now really stuck in my mind are the following:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;I wish you were less concentrated on the things which can’t be done. It would be great if you told me more of the steps which are doable.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I didn’t get the job as you might imagine. I don’t know if this was the actual reason for it, but anyway the lack of positive thinking has been surfaced once again. And I don’t like it at all. So, there is a room for improvement.&lt;/p&gt;
+&lt;p&gt;This is just a part of the problem, obviously. My attitude and general life philosophy are usually biased towards saying, «Hey, there are lots of problems. It’s super complicated and hard, and bad results are pretty inevitable». Then I’m just wasting a lot of my energy on trying to grasp and digest the negative stuff to its full extent. In the end, of course, there’s no energy for actually getting things done right, the way I want them to be.&lt;/p&gt;
+&lt;p&gt;I can observe a very similar issue in some of my close friends, too. Most probably, this is the reason why we are such good friends. We’re alike here.&lt;/p&gt;
+&lt;p&gt;As for now, I don’t have a vision of the concrete way to solve this problem in the long-term. I simply needed to materialize this thinking here, at least in the text format. More to come.&lt;/p&gt;</content>
+		<link href="positive-thinking.html"/>
+		<id>tag:www.karl.berlin,2021-07-09:posts/positive-thinking.md</id>
+		<published>2021-07-09T14:30:00+00:00</published>
+		<updated>2021-07-09T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>My travels</title>
+		<content type="html">&lt;h1&gt;My travels&lt;/h1&gt;
+&lt;p&gt;So while exploring Batumi why not to list here all the countries and cities I ever visited abroad? Hopefully, this post will be continuously updated as I will be traveling in the future. To be honest, I had a goal to visit 30 countries until I’m 30. For now I don’t see this goal to be achieved but whatever.&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th&gt;&lt;strong&gt;#&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;Country&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;City&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;Austria&lt;/td&gt;&lt;td&gt;Vienna&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Azerbaijan&lt;/td&gt;&lt;td&gt;Baku&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;Cyprus&lt;/td&gt;&lt;td&gt;Larnaca&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;Czech Republic&lt;/td&gt;&lt;td&gt;Prague&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;Denmark&lt;/td&gt;&lt;td&gt;Copenhagen&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;Estonia&lt;/td&gt;&lt;td&gt;Tallinn&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;Finland&lt;/td&gt;&lt;td&gt;Helsinki&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;France&lt;/td&gt;&lt;td&gt;Strasbourg, Marseille, Nice&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;Germany&lt;/td&gt;&lt;td&gt;Berlin, Hannover, Frankfurt am Main, Munich, Dresden, Cologne, Walldorf, Dusseldorf&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;Georgia&lt;/td&gt;&lt;td&gt;Batumi&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;Hungary&lt;/td&gt;&lt;td&gt;Budapest&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;Italy&lt;/td&gt;&lt;td&gt;Rome, Florence, Siena&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;Lithuania&lt;/td&gt;&lt;td&gt;Vilnius&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;Netherlands&lt;/td&gt;&lt;td&gt;Maastricht&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;Poland&lt;/td&gt;&lt;td&gt;Krakow, Wroclaw&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;Slovakia&lt;/td&gt;&lt;td&gt;Bratislava&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;Spain&lt;/td&gt;&lt;td&gt;Barcelona, Palma de Majorca&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;Sweden&lt;/td&gt;&lt;td&gt;Malmo&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;Turkey&lt;/td&gt;&lt;td&gt;Istanbul&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;Uzbekistan&lt;/td&gt;&lt;td&gt;Tashkent&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+Update 1: added Estonia, Finland — Sep 20, 2021&lt;p&gt;Update 2: added Austria, Slovakia, Hungary — Oct 18, 2021&lt;/p&gt;
+&lt;p&gt;Update 3: added Istanbul, Turkey — Nov 26, 2021&lt;/p&gt;
+&lt;p&gt;Update 4: added Larnaca, Cyprus — Jan 5, 2022&lt;/p&gt;</content>
+		<link href="countries-and-cities.html"/>
+		<id>tag:www.karl.berlin,2021-07-07:posts/countries-and-cities.md</id>
+		<published>2021-07-07T14:30:00+00:00</published>
+		<updated>2021-07-07T14:30:00+00:00</updated>
+	</entry>
+	<entry>
+		<title>Why creative people should be working like accountants</title>
+		<content type="html">&lt;h1&gt;Why creative people should be working like accountants&lt;/h1&gt;
+&lt;p&gt;Some thoughts on why creative people should be working like accountants&lt;/p&gt;
+&lt;p&gt;I am convinced that creative work and basically any work requires being organized and disciplined, even though there’s a strong preconception that creative tasks want us to be inspired first while leaving discipline, focus and concentration behind.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;There is a popular notion that artists work from inspiration—that there is some strike or bolt or bubbling up of creative mojo from who knows where… but I hope [my work] makes clear that waiting for inspiration to strike is a terrible, terrible plan. In fact, perhaps the single best piece of advice I can offer to anyone trying to do creative work is to ignore inspiration.
+In a New York Times column on the topic, David Brooks summarizes this reality more bluntly: “[Great creative minds] think like artists but work like accountants.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/25744928-deep-work&quot;&gt;Deep Work: Rules for Focused Success in a Distracted World&lt;/a&gt; by Cal Newport&lt;/p&gt;</content>
+		<link href="why-creative-people-should-be-working-like-accountants.html"/>
+		<id>tag:www.karl.berlin,2021-05-26:posts/why-creative-people-should-be-working-like-accountants.md</id>
+		<published>2021-05-26T14:30:00+00:00</published>
+		<updated>2021-05-26T14:30:00+00:00</updated>
+	</entry>
+</feed>
