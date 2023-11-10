@@ -1,7 +1,5 @@
 # Productivity and self-development hustle all over Youtube
 
-2022-01-09
-
 Slowly yet steadily my Youtube recommendations have got an enormous amount of youtubers «selling» productivity and self-development content. Each of them started really well and interesting, but as their audiences grew their content strategy transformed into a quite simple clickbait story.
 
 To my opinion, it’s important to not get hooked into all of that. Here’s why.

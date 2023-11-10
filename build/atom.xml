@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Volodymyr Vasylyna's Website</title>
 	<link href="https://www.karl.berlin/atom.xml" rel="self" />
-	<updated>2023-11-05T19:08:57+02:00</updated>
+	<updated>2023-11-10T14:05:42+02:00</updated>
 	<author>
 		<name>vovavasylyna</name>
 	</author>
@@ -33,7 +33,7 @@
 &lt;p&gt;In my current position, I have seen several examples when colleagues having excellent BI and SQL skills could not unlock their potential and grow quickly without understanding the underlying marketing and sales processes. &lt;/p&gt;
 &lt;p&gt;Sometimes tech skills are overrated. Human connection and business acumen might be a better area to develop.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-&lt;img src=&quot;/barf/public/images/skills.png&quot; alt=&quot;skills&quot;/&gt;
+&lt;img src=&quot;skills.png&quot; alt=&quot;skills&quot;/&gt;
 &lt;/figure&gt;&lt;/p&gt;</content>
 		<link href="tech-skills-are-not-that-important.html"/>
 		<id>tag:www.karl.berlin,2023-10-09:posts/tech-skills-are-not-that-important.md</id>
@@ -43,7 +43,6 @@
 	<entry>
 		<title>How to remind if they forgot to do their work</title>
 		<content type="html">&lt;h1&gt;How to remind if they forgot to do their work&lt;/h1&gt;
-&lt;p&gt;2023-10-06&lt;/p&gt;
 &lt;p&gt;Sometimes there are situations when a client or a colleague says, &quot;Yes, fine, I will do this tomorrow&quot;, and you kind of make an agreement with them. But then a few days pass, and there is no news from them, and nothing is done. Work is not completed.&lt;/p&gt;
 &lt;p&gt;Obsiously you feel it is necessary to somehow remind them, but there is a typical mistake here. We usually write an awkward message, like &quot;How are you doing with our project?&quot;, or even a simpler &quot;How are you doing?&quot;. With this exact phrase (&quot;How are you doing?&quot;) it is implied that I seem to be interested in how they are doing, but in fact I am reminding them of the task. In this situation, it is better to avoid ambiguous phrases or texting stuff like &quot;Hey, here&#39;s a kind reminder&quot;. This tone suggests that I believe they have forgotten something. Yet I don&#39;t actually know if they have, or not.&lt;/p&gt;
 &lt;p&gt;It is more appropriate to just copy the description with all materials and details around the task and put at the beginning of the message: &quot;Hi, we&#39;re hitting a deadline for this task in several days or hours. The task is still relevant. Here is all the information for your convenience. If there are any questions or problems, or if you do not have enough time, then let me know, and we&#39;ll think how to move forward.&quot; &lt;/p&gt;
@@ -196,53 +195,52 @@
 &lt;p&gt;&lt;strong&gt;1 – Didova Khatchyna&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/didova_khatchyna/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/XDYcV36JrR4UzjyZ6&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Visited in 2022. Great place!&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;&lt;img src=&quot;images/cabins/didova-khatchyna-1.jpg&quot; alt=&quot;didova-khatchyna&quot;/&gt;&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/didova-khatchyna-1.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/didova-khatchyna-2.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/didova-khatchyna-3.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/didova-khatchyna-1.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/didova-khatchyna-2.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/didova-khatchyna-3.jpg&quot; alt=&quot;Didova Khatchyna&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2 – Gregit&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/hatynky/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/fj75dY5K77cyh7vs7&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/gregit-1.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/gregit-2.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/gregit-3.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/gregit-1.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/gregit-2.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/gregit-3.jpg&quot; alt=&quot;Gregit&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;3 – karpateka&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/karpateka/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/32hQ1Zg1aNiLRT559&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/karpateka-1.jpg&quot; alt=&quot;karpateka&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/karpateka-2.jpg&quot; alt=&quot;karpateka&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/karpateka-1.jpg&quot; alt=&quot;karpateka&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/karpateka-2.jpg&quot; alt=&quot;karpateka&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;4 – SpitzBergenHouse&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/spitzbergenhouse/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/xjSMUySVAvxVMYD9A&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/spitzbergenhouse-1.jpg&quot; alt=&quot;SpitzBergenHouse&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/spitzbergenhouse-2.jpg&quot; alt=&quot;SpitzBergenHouse&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/spitzbergenhouse-1.jpg&quot; alt=&quot;SpitzBergenHouse&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/spitzbergenhouse-2.jpg&quot; alt=&quot;SpitzBergenHouse&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;5 – Black Black House&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/black_black_house/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/efUKkoxEZfXv6f5r6&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/blackblackhouse-1.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/blackblackhouse-2.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/blackblackhouse-3.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/blackblackhouse-1.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/blackblackhouse-2.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/blackblackhouse-3.jpg&quot; alt=&quot;Black Black House&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;6 – Black Rock Mountain Retreat&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/blackrock.com.ua/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/RLt5Kc7L5am3DSNXA&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/blackrockmountainretreat-1.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/blackrockmountainretreat-2.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/blackrockmountainretreat-3.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/blackrockmountainretreat-1.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/blackrockmountainretreat-2.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/blackrockmountainretreat-3.jpg&quot; alt=&quot;Black Rock Mountain Retreat&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7 – TO YE HOUSE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/toye.house/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/b5gkJPhWW9vc8UUZA&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/toyehouse-1.jpg&quot; alt=&quot;TO YE HOUSE&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/toyehouse-2.jpg&quot; alt=&quot;TO YE HOUSE&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/toyehouse-1.jpg&quot; alt=&quot;TO YE HOUSE&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/toyehouse-2.jpg&quot; alt=&quot;TO YE HOUSE&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;8 – Sirimiri&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/conceptstay/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/8cjixRUCPQkqAdr79&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/sirimiri-1.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/sirimiri-2.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/sirimiri-3.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/sirimiri-1.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/sirimiri-2.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/sirimiri-3.jpg&quot; alt=&quot;Sirimiri&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;9 – MIKO&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/blacknest42/&quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/juCxTcUkd4PorZJz7&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Visited in 2022. Recommended. Be prepared for a 15-minute steep climb to get to the cottage. There was no parking.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/miko-1.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/miko-2.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/miko-3.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/miko-1.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/miko-2.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/miko-3.jpg&quot; alt=&quot;MIKO&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10 – Tykhyi Kutochok&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/tuhui_kytochok/ &quot;&gt;Intsagram&lt;/a&gt; – &lt;a href=&quot;https://goo.gl/maps/G3qfUxDwtxGuveZVA&quot;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Update: Visited in August 2023. Recommended. This is a marvellous place.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/tykhyikutochok-1.jpg&quot; alt=&quot;Tykhyi Kutochok&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cabins/tykhyikutochok-2.jpg&quot; alt=&quot;Tykhyi Kutochok&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;cabins/tykhyikutochok-1.jpg&quot; alt=&quot;Tykhyi Kutochok&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;cabins/tykhyikutochok-2.jpg&quot; alt=&quot;Tykhyi Kutochok&quot; /&gt;&lt;/p&gt;</content>
 		<link href="my-list-of-cabins-in-the-carpathians-for-solitude-and-privacy.html"/>
 		<id>tag:www.karl.berlin,2023-07-03:posts/my-list-of-cabins-in-the-carpathians-for-solitude-and-privacy.md</id>
 		<published>2023-07-03T14:30:00+00:00</published>
@@ -395,7 +393,6 @@
 	<entry>
 		<title>How to read more</title>
 		<content type="html">&lt;h1&gt;How to read more&lt;/h1&gt;
-&lt;p&gt;2022-05-18&lt;/p&gt;
 &lt;p&gt;Stop using your phone for entertainment and see what happens.&lt;/p&gt;</content>
 		<link href="how-to-read-more.html"/>
 		<id>tag:www.karl.berlin,2022-05-18:posts/how-to-read-more.md</id>
@@ -449,7 +446,6 @@
 	<entry>
 		<title>Productivity and self-development hustle all over Youtube</title>
 		<content type="html">&lt;h1&gt;Productivity and self-development hustle all over Youtube&lt;/h1&gt;
-&lt;p&gt;2022-01-09&lt;/p&gt;
 &lt;p&gt;Slowly yet steadily my Youtube recommendations have got an enormous amount of youtubers «selling» productivity and self-development content. Each of them started really well and interesting, but as their audiences grew their content strategy transformed into a quite simple clickbait story.&lt;/p&gt;
 &lt;p&gt;To my opinion, it’s important to not get hooked into all of that. Here’s why.&lt;/p&gt;
 &lt;p&gt;When I’m watching one of such videos it actually does sound pretty inspiring, trustworthy and valuable. So it’s not surprising why these creators get so popular in a very short period of time. The tricky part here is that their messages are often super trivial and high-level, therefore the videos are easy and fun to watch. In the meantime, the essence of the videos is then getting compensated by neat production with clickbait headlines and thumbnails. As a result, I’m always tempted to click a link fast and feel like I’m not simply wasting my time on Youtube but rather attending a self-development session, as short and non-sense it may be.&lt;/p&gt;
@@ -570,7 +566,6 @@ Speaking of social media, I’m using none of them. Although I still own a Faceb
 	<entry>
 		<title>Struggle to think positively</title>
 		<content type="html">&lt;h1&gt;Struggle to think positively&lt;/h1&gt;
-&lt;p&gt;2021-07-09&lt;/p&gt;
 &lt;p&gt;It feels like I’m having some unpleasant consequences of a non-positive attitude in life. This thought has been growing over the past several years.&lt;/p&gt;
 &lt;p&gt;This week I had a follow-up call after my job interview. The words which are now really stuck in my mind are the following:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;I wish you were less concentrated on the things which can’t be done. It would be great if you told me more of the steps which are doable.&lt;/p&gt;

@@ -11,5 +11,5 @@ In my current position, I have seen several examples when colleagues having exce
 Sometimes tech skills are overrated. Human connection and business acumen might be a better area to develop.
 
 <figure>
-<img src="/barf/public/images/skills.png" alt="skills"/>
+<img src="skills.png" alt="skills"/>
 </figure>

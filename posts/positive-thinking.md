@@ -1,7 +1,5 @@
 # Struggle to think positively
 
-2021-07-09
-
 It feels like I’m having some unpleasant consequences of a non-positive attitude in life. This thought has been growing over the past several years.
 
 This week I had a follow-up call after my job interview. The words which are now really stuck in my mind are the following:
